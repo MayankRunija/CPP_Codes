@@ -1,9 +1,7 @@
 
 
  
-/*		     &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-		     & COMPUTER SCIENCE PROJECT WORK&
-		     &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+/*		 
  
 	      SOFTWARE FOR THE USE OF CANTEEN DEPARTMENT
  
