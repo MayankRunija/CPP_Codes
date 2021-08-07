@@ -7,7 +7,7 @@ class flight_cal{
 private : int flight ;
           char desti[20]; 
           float dis,fuel;
-          
+          //FuelCalculation
 public  : feedinfo();
           calfuel();
 		  showinfo();
